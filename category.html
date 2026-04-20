@@ -23,11 +23,10 @@
 
     <style type="text/tailwindcss">
         @layer components {
-            /* Navbar disesuaikan: Padding lebih kecil di mobile */
             .glass-nav { @apply fixed top-0 w-full z-[1000] px-5 md:px-[8%] py-4 bg-dark/90 backdrop-blur-xl border-b border-white/10 flex justify-between items-center; }
             
-            /* Card disesuaikan: Padding lebih rapat di mobile agar gambar maksimal */
-            .product-card { @apply bg-white/[0.03] border border-white/10 rounded-2xl p-2 md:p-2.5 backdrop-blur-sm transition-all duration-500 cursor-pointer active:scale-95 md:hover:-translate-y-2 md:hover:border-gold/30; }
+            /* Menambahkan padding lebih lega untuk mobile karena tampilan 1 kolom */
+            .product-card { @apply bg-white/[0.03] border border-white/10 rounded-2xl p-3 md:p-2.5 backdrop-blur-sm transition-all duration-500 cursor-pointer active:scale-[0.98] md:hover:-translate-y-2 md:hover:border-gold/30; }
             
             .skeleton { @apply relative overflow-hidden bg-white/5 animate-shimmer; background-image: linear-gradient(90deg, rgba(255,255,255,0) 0, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0) 100%); background-size: 200% 100%; }
         }
@@ -38,7 +37,7 @@
         <a href="index.html" class="font-serif text-lg md:text-xl tracking-wider"><span class="text-gold">Classic</span>Project</a>
     </nav>
 
-    <main class="px-4 md:px-[8%] pt-24 md:pt-32 pb-20">
+    <main class="px-5 md:px-[8%] pt-24 md:pt-32 pb-20">
         <div class="mb-8 md:mb-12">
             <a href="index.html" class="text-gold text-[10px] md:text-xs uppercase tracking-[3px] mb-2 inline-block hover:opacity-70">
                 <i class="bi bi-arrow-left"></i> Kembali
@@ -46,8 +45,8 @@
             <h1 id="cat-title" class="font-serif text-3xl md:text-6xl text-white mt-1 italic capitalize">Loading...</h1>
         </div>
 
-        <div id="full-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-8">
-            </div>
+        <div id="full-grid" class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-8">
+        </div>
     </main>
 
     <script>
@@ -67,12 +66,12 @@
                 
                 grid.innerHTML = products.map(p => `
                     <div class="product-card" onclick="window.open('${p.link}', '_blank')">
-                        <div class="w-full h-48 md:h-72 rounded-xl overflow-hidden mb-3 relative skeleton">
+                        <div class="w-full aspect-square md:h-72 md:aspect-auto rounded-xl overflow-hidden mb-4 relative skeleton">
                             <img src="${p.image}" class="w-full h-full object-cover opacity-0 transition-opacity duration-700" onload="this.parentElement.classList.remove('skeleton');this.classList.remove('opacity-0')">
                         </div>
                         <div class="px-1 pb-1">
-                            <h3 class="text-sm md:text-base font-medium text-gray-200 mb-1 line-clamp-1">${p.name}</h3>
-                            <p class="text-gold text-sm md:text-base font-bold">${p.price}</p>
+                            <h3 class="text-base md:text-base font-medium text-gray-200 mb-1">${p.name}</h3>
+                            <p class="text-gold text-lg md:text-base font-bold">${p.price}</p>
                         </div>
                     </div>
                 `).join('');
