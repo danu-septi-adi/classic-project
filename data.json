@@ -1,0 +1,299 @@
+{
+  "config": {
+    "logo": "ClassicProject",
+    "heroTitle": "Crafted Perfection",
+    "heroSubtitle": "Koleksi aksesoris pilihan untuk melengkapi gaya hidup eksklusif Anda. Setiap detail dirancang dengan presisi.",
+    "heroImages": [
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1920&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1531938716357-224c16b5ace3?q=80&w=1920&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?q=80&w=1920&auto=format&fit=crop"
+    ]
+  },
+  "marketplaces": [
+    { "name": "Shopee", "url": "https://shopee.co.id/syarif_seller", "icon": "bi-bag-check" },
+    { "name": "Tokopedia", "url": "https://tokopedia.com", "icon": "bi-shop" },
+    { "name": "TikTok Shop", "url": "https://tiktok.com", "icon": "bi-tiktok" }
+  ],
+  "products": [
+    {
+      "name": "PAKET HAMPERS Kado Give Box CLASSIC PROJECT Tas selempang handbag anti air + Topi Trucker + Dompet Best Seller Unisex",
+      "category": "Hampers",
+      "price": "Rp 72.750",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m6eydvt5to95d2",
+      "link": "https://shopee.co.id/PAKET-HAMPERS-Kado-Give-Box-CLASSIC-PROJECT-Tas-selempang-handbag-anti-air-Topi-Trucker-Dompet-Best-Seller-Unisex-i.271549071.24565147581?extraParams=%7B%22display_model_id%22%3A226081192917%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET HEMAT 3 in 1 (SANDAL+TOPI+DOMPET) Original CLASSIC PROJECT",
+      "category": "Hampers",
+      "price": "Rp 65.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-mbn9uj7iddarac",
+      "link": "https://shopee.co.id/PAKET-HEMAT-3-in-1-(SANDAL-TOPI-DOMPET)-Original-CLASSIC-PROJECT-i.271549071.41506775146?extraParams=%7B%22display_model_id%22%3A167222958136%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET BUNDLING Tas Anti air + Dompet kancing CLASSIC PROJECT TERLARIS BEST SELLER",
+      "category": "Hampers",
+      "price": "Rp 70.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lvxccbb8ilqib0",
+      "link": "https://shopee.co.id/PAKET-BUNDLING-Tas-Anti-air-Dompet-kancing-CLASSIC-PROJECT-TERLARIS-BEST-SELLER-i.271549071.24020500705?extraParams=%7B%22display_model_id%22%3A222625488556%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Waistbag Distro Waterproof Classic project Hitam",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lpuaa6aw99mg62",
+      "link": "https://shopee.co.id/Tas-Waistbag-Distro-Waterproof-Classic-project-Hitam-i.271549071.24305623119?extraParams=%7B%22display_model_id%22%3A222413357110%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Pria Sender Distro Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 90.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lq5n2xrt19yqd2",
+      "link": "https://shopee.co.id/Tas-Selempang-Pria-Sender-Distro-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.9948185752?extraParams=%7B%22display_model_id%22%3A49730295743%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Tectical Pria Distro Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lnxqida72ncqbd",
+      "link": "https://shopee.co.id/Tas-Selempang-Tectical-Pria-Distro-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.9146577299?extraParams=%7B%22display_model_id%22%3A257900751723%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET HAMPERS Kado Give Box CLASSIC PROJECT Tas selempang handbag anti air + Topi Trucker + Dompet Best Seller Unisex",
+      "category": "Hampers",
+      "price": "Rp 72.750",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m6eydvt5to95d2",
+      "link": "https://shopee.co.id/PAKET-HAMPERS-Kado-Give-Box-CLASSIC-PROJECT-Tas-selempang-handbag-anti-air-Topi-Trucker-Dompet-Best-Seller-Unisex-i.271549071.24565147581?extraParams=%7B%22display_model_id%22%3A226081192917%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "HAMPERS SPESIAL LEBARAN PAKET HEMAT HADIAH KADO COWOK 4 ITEM",
+      "category": "Hampers",
+      "price": "Rp 72.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lteonhxmwlyfba",
+      "link": "https://shopee.co.id/HAMPERS-SPESIAL-LEBARAN-PAKET-HEMAT-HADIAH-KADO-COWOK-4-ITEM-i.271549071.24971789785?extraParams=%7B%22display_model_id%22%3A245564321731%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Waistbag Distro Waterproof Classic project Hitam",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lpuaa6aw99mg62",
+      "link": "https://shopee.co.id/Tas-Waistbag-Distro-Waterproof-Classic-project-Hitam-i.271549071.24305623119?extraParams=%7B%22display_model_id%22%3A222413357110%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Sendal jepit Pria Wanita Outdoor Original CLASSIC PROJECT",
+      "category": "Accessories",
+      "price": "Rp 25.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0m-mbn9uj78m7h35d",
+      "link": "https://shopee.co.id/Sendal-jepit-Pria-Wanita-Outdoor-Original-CLASSIC-PROJECT-i.271549071.44006771336?extraParams=%7B%22display_model_id%22%3A300571493729%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "PAKET HEMAT 3 in 1 (SANDAL+TOPI+DOMPET) Original CLASSIC PROJECT",
+      "category": "Hampers",
+      "price": "Rp 65.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-mbn9uj7iddarac",
+      "link": "https://shopee.co.id/PAKET-HEMAT-3-in-1-(SANDAL-TOPI-DOMPET)-Original-CLASSIC-PROJECT-i.271549071.41506775146?extraParams=%7B%22display_model_id%22%3A167222958136%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET HAMPERS Kado Give Box CLASSIC PROJECT Tas selempang handbag anti air + Topi Trucker + Dompet Best Seller Unisex",
+      "category": "Hampers",
+      "price": "Rp 72.750",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m6eydvt5to95d2",
+      "link": "https://shopee.co.id/PAKET-HAMPERS-Kado-Give-Box-CLASSIC-PROJECT-Tas-selempang-handbag-anti-air-Topi-Trucker-Dompet-Best-Seller-Unisex-i.271549071.24565147581?extraParams=%7B%22display_model_id%22%3A226081192917%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "HAMPERS SPESIAL LEBARAN PAKET HEMAT HADIAH KADO COWOK 4 ITEM",
+      "category": "Hampers",
+      "price": "Rp 72.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lteonhxmwlyfba",
+      "link": "https://shopee.co.id/HAMPERS-SPESIAL-LEBARAN-PAKET-HEMAT-HADIAH-KADO-COWOK-4-ITEM-i.271549071.24971789785?extraParams=%7B%22display_model_id%22%3A245564321731%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Dompet Pria Wanita Panjang Kulit Sintetis Premium Classic Project Kulit PU Polos",
+      "category": "Dompet",
+      "price": "Rp 34.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lrx89ekumr95c4",
+      "link": "https://shopee.co.id/Dompet-Pria-Wanita-Panjang-Kulit-Sintetis-Premium-Classic-Project-Kulit-PU-Polos-i.271549071.25414131329?extraParams=%7B%22display_model_id%22%3A222526098606%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Dompet Pria Wanita kulit sintetis premium Classic Project Kulit PU Polos",
+      "category": "Dompet",
+      "price": "Rp 32.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lrx89eimvm89b7",
+      "link": "https://shopee.co.id/Dompet-Pria-Wanita-kulit-sintetis-premium-Classic-Project-Kulit-PU-Polos-i.271549071.24614135681?extraParams=%7B%22display_model_id%22%3A240348836826%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Pouch Bag Unisex Tas Selempang Waterproof Original Classic project",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ly8o4vp73q5c8d",
+      "link": "https://shopee.co.id/Pouch-Bag-Unisex-Tas-Selempang-Waterproof-Original-Classic-project-i.271549071.19868984858?extraParams=%7B%22display_model_id%22%3A251279112537%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Waistbag Distro Waterproof Classic project Hitam",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lpuaa6aw99mg62",
+      "link": "https://shopee.co.id/Tas-Waistbag-Distro-Waterproof-Classic-project-Hitam-i.271549071.24305623119?extraParams=%7B%22display_model_id%22%3A222413357110%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET HAMPERS Kado Give Box CLASSIC PROJECT Tas selempang handbag anti air + Topi Trucker + Dompet Best Seller Unisex",
+      "category": "Hampers",
+      "price": "Rp 72.750",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7rbk4-m6eydvt5to95d2",
+      "link": "https://shopee.co.id/PAKET-HAMPERS-Kado-Give-Box-CLASSIC-PROJECT-Tas-selempang-handbag-anti-air-Topi-Trucker-Dompet-Best-Seller-Unisex-i.271549071.24565147581?extraParams=%7B%22display_model_id%22%3A226081192917%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET BUNDLING Tas Anti air + Dompet kancing CLASSIC PROJECT TERLARIS BEST SELLER",
+      "category": "Hampers",
+      "price": "Rp 70.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lvxccbb8ilqib0",
+      "link": "https://shopee.co.id/PAKET-BUNDLING-Tas-Anti-air-Dompet-kancing-CLASSIC-PROJECT-TERLARIS-BEST-SELLER-i.271549071.24020500705?extraParams=%7B%22display_model_id%22%3A222625488556%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "PAKET HEMAT 3 in 1 (SANDAL+TOPI+DOMPET) Original CLASSIC PROJECT",
+      "category": "Hampers",
+      "price": "Rp 65.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-mbn9uj7iddarac",
+      "link": "https://shopee.co.id/PAKET-HEMAT-3-in-1-(SANDAL-TOPI-DOMPET)-Original-CLASSIC-PROJECT-i.271549071.41506775146?extraParams=%7B%22display_model_id%22%3A167222958136%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Pria Sender Distro Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 90.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lq5n2xrt19yqd2",
+      "link": "https://shopee.co.id/Tas-Selempang-Pria-Sender-Distro-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.9948185752?extraParams=%7B%22display_model_id%22%3A49730295743%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Waistbag Distro Waterproof Classic project Hitam",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-lpuaa6aw99mg62",
+      "link": "https://shopee.co.id/Tas-Waistbag-Distro-Waterproof-Classic-project-Hitam-i.271549071.24305623119?extraParams=%7B%22display_model_id%22%3A222413357110%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Topi Trucker Jaring Pria Wanita Original - CLASSIC PROJECT",
+      "category": "Topi",
+      "price": "Rp 30.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lqfkyyaa3rzz7e",
+      "link": "https://shopee.co.id/Topi-Trucker-Jaring-Pria-Wanita-Original-CLASSIC-PROJECT-i.271549071.8639687515?extraParams=%7B%22display_model_id%22%3A235323276885%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Tectical Pria Distro Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lnxqida72ncqbd",
+      "link": "https://shopee.co.id/Tas-Selempang-Tectical-Pria-Distro-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.9146577299?extraParams=%7B%22display_model_id%22%3A257900751723%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Gantungan kunci - CLASSIC PROJECT",
+      "category": "Accessories",
+      "price": "Rp 5.000",
+      "image": "https://down-id.img.susercontent.com/file/b4f479bd9ec45debd099a57d3173a281",
+      "link": "https://shopee.co.id/Gantungan-kunci-CLASSIC-PROJECT-i.271549071.10047413146?extraParams=%7B%22display_model_id%22%3A130318148018%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Handbag Premium Classic project Unisex 2 in 1 Original",
+      "category": "Tas",
+      "price": "Rp 90.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lrx89eimls95ec",
+      "link": "https://shopee.co.id/Tas-Selempang-Handbag-Premium-Classic-project-Unisex-2-in-1-Original-i.271549071.19453137439?extraParams=%7B%22display_model_id%22%3A138842422163%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Pouch Bag Unisex Tas Selempang Waterproof Original Classic project",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ly8o4vp73q5c8d",
+      "link": "https://shopee.co.id/Pouch-Bag-Unisex-Tas-Selempang-Waterproof-Original-Classic-project-i.271549071.19868984858?extraParams=%7B%22display_model_id%22%3A251279112537%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "(PAKET HEMAT) Combo Topi jaring trucker dan Dompet kulit sintetis dimensi Classic project Elegan Hitam",
+      "category": "Hampers",
+      "price": "Rp 55.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7rbk8-m9y8xqr7lq8d13",
+      "link": "https://shopee.co.id/(PAKET-HEMAT)-Combo-Topi-jaring-trucker-dan-Dompet-kulit-sintetis-dimensi-Classic-project-Elegan-Hitam-i.271549071.26886740479?extraParams=%7B%22display_model_id%22%3A270115043689%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Dompet Pria Wanita Kulit Sintentis Premium Classic project Uk 3/4 Kulit PU Polos",
+      "category": "Dompet",
+      "price": "Rp 33.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lrx89ejgszskdf",
+      "link": "https://shopee.co.id/Dompet-Pria-Wanita-Kulit-Sintentis-Premium-Classic-project-Uk-3-4-Kulit-PU-Polos-i.271549071.19487376844?extraParams=%7B%22display_model_id%22%3A240348847153%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Dompet Pria Wanita kulit sintetis premium Classic Project Kulit PU Polos",
+      "category": "Dompet",
+      "price": "Rp 32.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-lrx89eimvm89b7",
+      "link": "https://shopee.co.id/Dompet-Pria-Wanita-kulit-sintetis-premium-Classic-Project-Kulit-PU-Polos-i.271549071.24614135681?extraParams=%7B%22display_model_id%22%3A240348836826%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "HAMPERS SPESIAL LEBARAN PAKET HEMAT HADIAH KADO COWOK 4 ITEM",
+      "category": "Hampers",
+      "price": "Rp 72.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lteonhxmwlyfba",
+      "link": "https://shopee.co.id/HAMPERS-SPESIAL-LEBARAN-PAKET-HEMAT-HADIAH-KADO-COWOK-4-ITEM-i.271549071.24971789785?extraParams=%7B%22display_model_id%22%3A245564321731%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Tas Selempang Pria Distro Mini Waterproof Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 55.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lnxqida6zu7uff",
+      "link": "https://shopee.co.id/Tas-Selempang-Pria-Distro-Mini-Waterproof-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.16254948052?extraParams=%7B%22display_model_id%22%3A59368410640%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Tas Selempang Pria Distro Waterproof Slingbag Kerja Unisex Simpel Pouch Casual Classic Project",
+      "category": "Tas",
+      "price": "Rp 50.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lobxmtcxbll664",
+      "link": "https://shopee.co.id/Tas-Selempang-Pria-Distro-Waterproof-Slingbag-Kerja-Unisex-Simpel-Pouch-Casual-Classic-Project-i.271549071.17875380913?extraParams=%7B%22display_model_id%22%3A118004984970%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Sendal jepit Pria Wanita Outdoor Original CLASSIC PROJECT",
+      "category": "Accessories",
+      "price": "Rp 25.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0m-mbn9uj78m7h35d",
+      "link": "https://shopee.co.id/Sendal-jepit-Pria-Wanita-Outdoor-Original-CLASSIC-PROJECT-i.271549071.44006771336?extraParams=%7B%22display_model_id%22%3A300571493729%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "CP ZeeNero Wallet - Dompet Pria Kulit PU Premium Original Classic project Pendek Lipat Tiga",
+      "category": "Dompet",
+      "price": "Rp 99.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0j-mcjy3x8dz0go63",
+      "link": "https://shopee.co.id/CP-ZeeNero-Wallet-Dompet-Pria-Kulit-PU-Premium-Original-Classic-project-Pendek-Lipat-Tiga-i.271549071.41209847618?extraParams=%7B%22display_model_id%22%3A270827543438%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Dompet Pendek Pria Wanita Kulit Sintetis Premium Classic Project Variasi Kulit PU Polos Setrip",
+      "category": "Dompet",
+      "price": "Rp 32.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lrx93fo8dx8d7b",
+      "link": "https://shopee.co.id/Dompet-Pendek-Pria-Wanita-Kulit-Sintetis-Premium-Classic-Project-Variasi-Kulit-PU-Polos-Setrip-i.271549071.25364131537?extraParams=%7B%22display_model_id%22%3A194920895116%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "CP ZeeFold Wallet - Dompet Lipat Medium Original Classic project Pria Wanita Kulit PU Premium",
+      "category": "Dompet",
+      "price": "Rp 99.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0n-mcjy3x7jxfef8a",
+      "link": "https://shopee.co.id/CP-ZeeFold-Wallet-Dompet-Lipat-Medium-Original-Classic-project-Pria-Wanita-Kulit-PU-Premium-i.271549071.27889034215?extraParams=%7B%22display_model_id%22%3A295827391102%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "CP ZeeLong Wallet - Dompet Panjang Pria Wanita Kulit PU Premium Original Classic Project",
+      "category": "Dompet",
+      "price": "Rp 99.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7ra0r-mcjy3x8e4mqg89",
+      "link": "https://shopee.co.id/CP-ZeeLong-Wallet-Dompet-Panjang-Pria-Wanita-Kulit-PU-Premium-Original-Classic-Project-i.271549071.42909843101?extraParams=%7B%22display_model_id%22%3A290827633604%2C%22model_selection_logic%22%3A3%7D"
+    },
+    {
+      "name": "Dompet Pria Wanita Panjang Kulit Sintetis Premium Classic Project Kulit PU Polos",
+      "category": "Dompet",
+      "price": "Rp 34.500",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98y-lrx89ekumr95c4",
+      "link": "https://shopee.co.id/Dompet-Pria-Wanita-Panjang-Kulit-Sintetis-Premium-Classic-Project-Kulit-PU-Polos-i.271549071.25414131329?extraParams=%7B%22display_model_id%22%3A222526098606%2C%22model_selection_logic%22%3A2%7D"
+    },
+    {
+      "name": "Request Ucapan Tambahan Ulang tahun - Happy graduation - Happy anniversary dll",
+      "category": "Topi",
+      "price": "Rp 4.000",
+      "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lx7q8ct6tdem8a",
+      "link": "https://shopee.co.id/Request-Ucapan-Tambahan-Ulang-tahun-Happy-graduation-Happy-anniversary-dll-i.271549071.28354286019?extraParams=%7B%22display_model_id%22%3A246123019011%2C%22model_selection_logic%22%3A3%7D"
+    }
+  ]
+}
